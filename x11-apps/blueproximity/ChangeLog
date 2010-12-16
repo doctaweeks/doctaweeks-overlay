@@ -1,0 +1,7 @@
+# ChangeLog for x11-apps/blueproximity
+# Copyright 1999-2010 Gentoo Foundation; Distributed under the GPL v2
+# $Header: $
+
+  16 Dec 2010; Dan Weeks (doctaweeks) <dan@danweeks.net>
+  +blueproximity-1.2.5.ebuild, +metadata.xml:
+  Add blueproximity; thanks to Pavel Procopiuc <hyrurg@gmail.com>

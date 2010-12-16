@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<herd>no-herd</herd>
+	<maintainer><email>maintainer-wanted@gentoo.org</email></maintainer>
+	<longdescription>Add security to your desktop by automatically locking and unlocking the screen when you and your phone leave/enter the desk. Think of a proximity detector for your mobile phone via bluetooth.</longdescription>
+</pkgmetadata>
