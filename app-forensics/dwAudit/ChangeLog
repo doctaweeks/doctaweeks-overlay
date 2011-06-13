@@ -3,5 +3,9 @@
 # $Header: $
 
   12 Jun 2011; Dan Weeks (doctaweeks) <dan@danweeks.net>
+  +dwAudit-9999.ebuild:
+  Add dwAudit-9999
+
+  12 Jun 2011; Dan Weeks (doctaweeks) <dan@danweeks.net>
   +dwAudit-0.0.3.ebuild, +metadata.xml, +ChangeLog:
   Add dwAudit-0.0.3
