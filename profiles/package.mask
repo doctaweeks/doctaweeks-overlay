@@ -8,4 +8,4 @@
 
 # Dan Weeks <dan@danweeks.net> (12 Jun 2011)
 # Mask live version
-=app-forensics/dwAudit-9999
+=app-forensics/dwaudit-9999

@@ -10,7 +10,7 @@ inherit distutils eutils
 DESCRIPTION="doctaweeks's audit script"
 HOMEPAGE="http://danweeks.net"
 if [[ ${PV} == "9999" ]] ; then
-	EGIT_REPO_URI="git://danweeks.net/dwAudit.git"
+	EGIT_REPO_URI="git://danweeks.net/dwaudit.git"
 	SRC_URI=""
 	inherit git
 else
