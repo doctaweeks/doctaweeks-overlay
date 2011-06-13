@@ -3,6 +3,10 @@
 # $Header: $
 
   12 Jun 2011; Dan Weeks (doctaweeks) <dan@danweeks.net>
+  -dwaudit-0.0.3.ebuild, +dwaudit-0.0.4.ebuild:
+  Version bump to 0.0.4
+
+  12 Jun 2011; Dan Weeks (doctaweeks) <dan@danweeks.net>
   +dwaudit-9999.ebuild:
   Add dwaudit-9999
 
