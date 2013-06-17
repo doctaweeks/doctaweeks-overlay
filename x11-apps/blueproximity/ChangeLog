@@ -1,6 +1,9 @@
 # ChangeLog for x11-apps/blueproximity
-# Copyright 1999-2010 Gentoo Foundation; Distributed under the GPL v2
+# Copyright 1999-2013 Gentoo Foundation; Distributed under the GPL v2
 # $Header: $
+
+  17 Jun 2013; Daniel M. Weeks <dan@danweeks.net> metadata.xml:
+  Remove unknown herd
 
   16 Dec 2010; Dan Weeks (doctaweeks) <dan@danweeks.net>
   +blueproximity-1.2.5.ebuild, +metadata.xml:
