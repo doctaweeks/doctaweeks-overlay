@@ -5,7 +5,3 @@
 # 
 # NOTE: Please add your entry at the top!
 #
-
-# Dan Weeks <dan@danweeks.net> (12 Jun 2011)
-# Mask live version
-=app-forensics/dwaudit-9999
