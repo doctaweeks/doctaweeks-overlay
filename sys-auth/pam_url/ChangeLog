@@ -1,0 +1,9 @@
+# ChangeLog for sys-auth/pam_url
+# Copyright 1999-2013 Gentoo Foundation; Distributed under the GPL v2
+# $Header: $
+
+*pam_url-9999 (17 Jun 2013)
+
+  17 Jun 2013; Daniel M. Weeks <dan@danweeks.net> +metadata.xml,
+  +pam_url-9999.ebuild:
+  New live ebuild
